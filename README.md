@@ -18,7 +18,7 @@ make
 ```
 
 4.Build mkfs tool
-** Refer to ScaleLFS/f2fs-tools/README
+* Refer to ScaleLFS/f2fs-tools/README or
 ```bash
 cd ./ScaleLFS/f2fs-tools/
 ./autogen.sh
